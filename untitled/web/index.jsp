@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>项目创建！！</title>
+    <title>测试项目上传！</title>
   </head>
   <body>
-  项目创建！！
+  测试项目上传！
   </body>
 </html>
